@@ -4,7 +4,7 @@
 
 # task 2: pre-process corpus
 
-# task 3:
+# task 3: comparing machine translation models
 # English to Dutch neural machine translation (RNN based sequence to sequence model and word based model)
  
 # Dutch to English neural machine translation (RNN based sequence to sequence model and word based model)
