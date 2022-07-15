@@ -7,8 +7,14 @@ This project creates several models for translating English to Dutch and vis-a-v
 3. a character based machine translation model
 
 
-## Requirements and installation
+## Requirements and installations
 1. install Phyton 3
+
+## Get started
+1. create virtual environment by entering in terminal: py -3 -m venv .venv
+2. activate newly created environment by entering in terminal: .venv\scripts\activate
+3. download packages by entering in terminal witch active virtual environment: python -m pip install package_name
+4. run phyton file by doing right click on respective file and selecting "Run Phyton file in terminal" or alternatively by entering in terminal witch active virtual environment: python file_name.p
 
 
 ## Data
